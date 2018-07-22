@@ -1,0 +1,15 @@
+{
+  "name": "student-profile-scrapper-nlp",
+  "version": "1.0.0",
+  "description": "Scrap student data from facebook using nlp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "compromise": "^11.11.0",
+    "natural": "^0.6.1"
+  }
+}
